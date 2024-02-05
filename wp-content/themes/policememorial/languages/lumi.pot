@@ -1,0 +1,33 @@
+# Copyright (C) 2022 UG
+# This file is distributed under the same license as the Worker Manager plugin.
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Worker Manager 1.0.0\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2023-10-02 10:49+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"X-Generator: Loco https://localise.biz/"
+
+#. URI of the theme
+#. Author URI of the theme
+msgid "https://awesomecoder.dev/"
+msgstr ""
+
+#. Name of the theme
+msgid "Lumi"
+msgstr ""
+
+#. Description of the theme
+msgid ""
+"Lumi is fast, fully customizable &amp; beautiful WordPress theme suitable "
+"for business website and WooCommerce storefront."
+msgstr ""
+
+#. Author of the theme
+msgid "Mohammad Ibrahim Kholil"
+msgstr ""

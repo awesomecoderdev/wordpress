@@ -1,0 +1,27 @@
+/* .term-color-wrap input[type="color"] {
+	border: none;
+	outline: none;
+	padding: 0;
+	margin: 0;
+	border-radius: 100%;
+	height: 30px;
+	width: 30px;
+	overflow: hidden;
+	scale: 2;
+	cursor: pointer;
+}
+
+.lumi-color-wrap {
+	cursor: pointer;
+	padding: 0;
+	margin: 0;
+	border-radius: 100%;
+	height: 30px;
+	width: 30px;
+	overflow: hidden;
+} */
+
+input#color {
+	opacity: 0;
+	width: 0;
+}
